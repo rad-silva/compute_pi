@@ -4,8 +4,7 @@ O cálculo de pi é um problema clássico na área da computação e da matemát
 
 Neste momento, estamos interessados na utilização destes métodos para calcular uma aproximação para o valor de pi utilziando diversos conceitos de arquitetura de computadores, como processamento sequencial, processamento vetorial e computação distribuída.
 
-Você pode consultar uma descrição simplificadas destes métodos nas páginas abaixo
+Você pode consultar uma descrição simplificadas destes métodos nas páginas abaixo <br>
+[1- Calculando pi via Monte Carlo](https://www.blogcyberini.com/2018/09/calculando-o-valor-de-pi-via-metodo-de-monte-carlo.html)<br>
+[2- Fórmula de Leibniz para π](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80)<br>
 
-[Calculando pi via Monte Carlo](https://www.blogcyberini.com/2018/09/calculando-o-valor-de-pi-via-metodo-de-monte-carlo.html)
-
-[Fórmula de Leibniz para π](https://pt.wikipedia.org/wiki/F%C3%B3rmula_de_Leibniz_para_%CF%80)
